@@ -1,1 +1,6 @@
+com/devsuperior/dslist/repositories/GameRepository.class
+com/devsuperior/dslist/dto/GameMinDTO.class
 com/devsuperior/dslist/DslistApplication.class
+com/devsuperior/dslist/services/GameService.class
+com/devsuperior/dslist/entities/Game.class
+com/devsuperior/dslist/resource/GameResource.class

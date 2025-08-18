@@ -1,1 +1,6 @@
 /home/lucas/GitHub/intensivao-java-springboot-devsuperior/src/main/java/com/devsuperior/dslist/DslistApplication.java
+/home/lucas/GitHub/intensivao-java-springboot-devsuperior/src/main/java/com/devsuperior/dslist/dto/GameMinDTO.java
+/home/lucas/GitHub/intensivao-java-springboot-devsuperior/src/main/java/com/devsuperior/dslist/entities/Game.java
+/home/lucas/GitHub/intensivao-java-springboot-devsuperior/src/main/java/com/devsuperior/dslist/repositories/GameRepository.java
+/home/lucas/GitHub/intensivao-java-springboot-devsuperior/src/main/java/com/devsuperior/dslist/resource/GameResource.java
+/home/lucas/GitHub/intensivao-java-springboot-devsuperior/src/main/java/com/devsuperior/dslist/services/GameService.java
